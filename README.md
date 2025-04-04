@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/srikanth-123178/leetcode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/srikanth-123178/leetcode/tree/master/0443-string-compression) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/srikanth-123178/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/srikanth-123178/leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
