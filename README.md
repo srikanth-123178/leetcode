@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/srikanth-123178/leetcode/tree/master/0443-string-compression) |
+## Database
+|  |
+| ------- |
+| [0596-classes-more-than-5-students](https://github.com/srikanth-123178/leetcode/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
