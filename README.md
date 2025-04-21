@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/srikanth-123178/leetcode/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/srikanth-123178/leetcode/tree/master/0443-string-compression) |
 ## Database
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/srikanth-123178/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/srikanth-123178/leetcode/tree/master/0619-biggest-single-number) |
 | [1877-find-followers-count](https://github.com/srikanth-123178/leetcode/tree/master/1877-find-followers-count) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/srikanth-123178/leetcode/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/srikanth-123178/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
