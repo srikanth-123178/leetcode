@@ -29,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/srikanth-123178/leetcode/tree/master/0596-classes-more-than-5-students) |
+| [1877-find-followers-count](https://github.com/srikanth-123178/leetcode/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
