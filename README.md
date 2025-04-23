@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/srikanth-123178/leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/srikanth-123178/leetcode/tree/master/0014-longest-common-prefix) |
 | [0443-string-compression](https://github.com/srikanth-123178/leetcode/tree/master/0443-string-compression) |
 ## Database
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/srikanth-123178/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/srikanth-123178/leetcode/tree/master/0012-integer-to-roman) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/srikanth-123178/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
