@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/srikanth-123178/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/srikanth-123178/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/srikanth-123178/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/srikanth-123178/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/srikanth-123178/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/srikanth-123178/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srikanth-123178/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/srikanth-123178/leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/srikanth-123178/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/srikanth-123178/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/srikanth-123178/leetcode/tree/master/0344-reverse-string) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/srikanth-123178/leetcode/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
