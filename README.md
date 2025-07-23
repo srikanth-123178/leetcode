@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/srikanth-123178/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/srikanth-123178/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/srikanth-123178/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/srikanth-123178/leetcode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/srikanth-123178/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/srikanth-123178/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/srikanth-123178/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/srikanth-123178/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/srikanth-123178/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/srikanth-123178/leetcode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/srikanth-123178/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/srikanth-123178/leetcode/tree/master/0067-add-binary) |
 ## Trie
 |  |
