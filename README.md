@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/srikanth-123178/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/srikanth-123178/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/srikanth-123178/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/srikanth-123178/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/srikanth-123178/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/srikanth-123178/leetcode/tree/master/0443-string-compression) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srikanth-123178/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/srikanth-123178/leetcode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/srikanth-123178/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/srikanth-123178/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/srikanth-123178/leetcode/tree/master/0217-contains-duplicate) |
 ## Math
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/srikanth-123178/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/srikanth-123178/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/srikanth-123178/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/srikanth-123178/leetcode/tree/master/0202-happy-number) |
 ## Trie
 |  |
 | ------- |
