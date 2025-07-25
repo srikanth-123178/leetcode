@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/srikanth-123178/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/srikanth-123178/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/srikanth-123178/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/srikanth-123178/leetcode/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srikanth-123178/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/srikanth-123178/leetcode/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/srikanth-123178/leetcode/tree/master/0217-contains-duplicate) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/srikanth-123178/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
