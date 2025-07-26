@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/srikanth-123178/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/srikanth-123178/leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/srikanth-123178/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srikanth-123178/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/srikanth-123178/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/srikanth-123178/leetcode/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srikanth-123178/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/srikanth-123178/leetcode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/srikanth-123178/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/srikanth-123178/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/srikanth-123178/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/srikanth-123178/leetcode/tree/master/0217-contains-duplicate) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/srikanth-123178/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srikanth-123178/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srikanth-123178/leetcode/tree/master/0242-valid-anagram) |
 ## Memoization
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/srikanth-123178/leetcode/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srikanth-123178/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srikanth-123178/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
