@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/srikanth-123178/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/srikanth-123178/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/srikanth-123178/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/srikanth-123178/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/srikanth-123178/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/srikanth-123178/leetcode/tree/master/0136-single-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srikanth-123178/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/srikanth-123178/leetcode/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/srikanth-123178/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/srikanth-123178/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/srikanth-123178/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/srikanth-123178/leetcode/tree/master/0205-isomorphic-strings) |
