@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/srikanth-123178/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/srikanth-123178/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/srikanth-123178/leetcode/tree/master/0067-add-binary) |
+| [0087-scramble-string](https://github.com/srikanth-123178/leetcode/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/srikanth-123178/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/srikanth-123178/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srikanth-123178/leetcode/tree/master/0242-valid-anagram) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/srikanth-123178/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/srikanth-123178/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/srikanth-123178/leetcode/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/srikanth-123178/leetcode/tree/master/0087-scramble-string) |
 ## Binary Search
 |  |
 | ------- |
