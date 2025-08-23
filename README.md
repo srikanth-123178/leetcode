@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/srikanth-123178/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/srikanth-123178/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srikanth-123178/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/srikanth-123178/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/srikanth-123178/leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/srikanth-123178/leetcode/tree/master/0164-maximum-gap) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/srikanth-123178/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/srikanth-123178/leetcode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/srikanth-123178/leetcode/tree/master/0087-scramble-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srikanth-123178/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
