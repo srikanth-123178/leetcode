@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/srikanth-123178/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/srikanth-123178/leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/srikanth-123178/leetcode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikanth-123178/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/srikanth-123178/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srikanth-123178/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/srikanth-123178/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/srikanth-123178/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/srikanth-123178/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikanth-123178/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/srikanth-123178/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/srikanth-123178/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/srikanth-123178/leetcode/tree/master/0344-reverse-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/srikanth-123178/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/srikanth-123178/leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikanth-123178/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
