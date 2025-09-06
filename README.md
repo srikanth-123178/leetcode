@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/srikanth-123178/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/srikanth-123178/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/srikanth-123178/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/srikanth-123178/leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/srikanth-123178/leetcode/tree/master/0443-string-compression) |
 | [3396-valid-word](https://github.com/srikanth-123178/leetcode/tree/master/3396-valid-word) |
 ## Database
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/srikanth-123178/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srikanth-123178/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/srikanth-123178/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/srikanth-123178/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/srikanth-123178/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/srikanth-123178/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/srikanth-123178/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/srikanth-123178/leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/srikanth-123178/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srikanth-123178/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srikanth-123178/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/srikanth-123178/leetcode/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
