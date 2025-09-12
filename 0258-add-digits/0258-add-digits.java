@@ -3,18 +3,10 @@ class Solution {
         if (num == 0) {
             return 0;
         }
-        int res = num;
-
-        while (res >= 10) {   // keep repeating until single digit
-            int sum = 0;      // reset sum for each round
-            while (res > 0) {
-                int rem = res % 10;   // extract digit
-                sum = sum + rem;      // add digit
-                res = res / 10;       // move to next digit
-            }
-            res = sum;   // prepare for next round if sum >= 10
+        if(num%9==0){
+            return 9;
         }
-
-        return res;  // final single digit
+        return num%9;
+       
     }
 }
