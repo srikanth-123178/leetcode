@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/srikanth-123178/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/srikanth-123178/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/srikanth-123178/leetcode/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/srikanth-123178/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/srikanth-123178/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/srikanth-123178/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [3396-valid-word](https://github.com/srikanth-123178/leetcode/tree/master/3396-valid-word) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srikanth-123178/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/srikanth-123178/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/srikanth-123178/leetcode/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/srikanth-123178/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/srikanth-123178/leetcode/tree/master/0507-perfect-number) |
 ## Trie
 |  |
