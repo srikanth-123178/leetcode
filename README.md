@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/srikanth-123178/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/srikanth-123178/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/srikanth-123178/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0742-to-lower-case](https://github.com/srikanth-123178/leetcode/tree/master/0742-to-lower-case) |
 | [3396-valid-word](https://github.com/srikanth-123178/leetcode/tree/master/3396-valid-word) |
 ## Database
 |  |
