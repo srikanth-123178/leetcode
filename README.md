@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/srikanth-123178/leetcode/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/srikanth-123178/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/srikanth-123178/leetcode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/srikanth-123178/leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/srikanth-123178/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/srikanth-123178/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/srikanth-123178/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -217,4 +218,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/srikanth-123178/leetcode/tree/master/0258-add-digits) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/srikanth-123178/leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/srikanth-123178/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/srikanth-123178/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
