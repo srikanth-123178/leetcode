@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/srikanth-123178/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/srikanth-123178/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/srikanth-123178/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1293-three-consecutive-odds](https://github.com/srikanth-123178/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srikanth-123178/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srikanth-123178/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/srikanth-123178/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
