@@ -11,7 +11,6 @@ class Solution {
                 n=n/10;
                 if (n==0 && count%2==0){
                     count1++;
-                    count=0;
                 }
             }
         }
