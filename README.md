@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srikanth-123178/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srikanth-123178/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/srikanth-123178/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3194-find-words-containing-character](https://github.com/srikanth-123178/leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/srikanth-123178/leetcode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/srikanth-123178/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/srikanth-123178/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/srikanth-123178/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0742-to-lower-case](https://github.com/srikanth-123178/leetcode/tree/master/0742-to-lower-case) |
+| [3194-find-words-containing-character](https://github.com/srikanth-123178/leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/srikanth-123178/leetcode/tree/master/3396-valid-word) |
 ## Database
 |  |
