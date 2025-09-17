@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/srikanth-123178/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/srikanth-123178/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srikanth-123178/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/srikanth-123178/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/srikanth-123178/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/srikanth-123178/leetcode/tree/master/0238-product-of-array-except-self) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/srikanth-123178/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikanth-123178/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/srikanth-123178/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/srikanth-123178/leetcode/tree/master/0367-valid-perfect-square) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/srikanth-123178/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikanth-123178/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/srikanth-123178/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Bucket Sort
 |  |
 | ------- |
