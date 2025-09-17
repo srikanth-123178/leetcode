@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srikanth-123178/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srikanth-123178/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/srikanth-123178/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3321-type-of-triangle](https://github.com/srikanth-123178/leetcode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/srikanth-123178/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/srikanth-123178/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/srikanth-123178/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srikanth-123178/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3321-type-of-triangle](https://github.com/srikanth-123178/leetcode/tree/master/3321-type-of-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/srikanth-123178/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srikanth-123178/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/srikanth-123178/leetcode/tree/master/0389-find-the-difference) |
+| [3321-type-of-triangle](https://github.com/srikanth-123178/leetcode/tree/master/3321-type-of-triangle) |
 ## Memoization
 |  |
 | ------- |
