@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/srikanth-123178/leetcode/tree/master/0176-second-highest-salary) |
 | [0596-classes-more-than-5-students](https://github.com/srikanth-123178/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/srikanth-123178/leetcode/tree/master/0619-biggest-single-number) |
 | [1877-find-followers-count](https://github.com/srikanth-123178/leetcode/tree/master/1877-find-followers-count) |
