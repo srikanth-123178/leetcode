@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/srikanth-123178/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikanth-123178/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/srikanth-123178/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/srikanth-123178/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/srikanth-123178/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/srikanth-123178/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/srikanth-123178/leetcode/tree/master/0268-missing-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/srikanth-123178/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/srikanth-123178/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/srikanth-123178/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/srikanth-123178/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/srikanth-123178/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/srikanth-123178/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/srikanth-123178/leetcode/tree/master/0263-ugly-number) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/srikanth-123178/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/srikanth-123178/leetcode/tree/master/0258-add-digits) |
 ## Rolling Hash
 |  |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/srikanth-123178/leetcode/tree/master/0214-shortest-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/srikanth-123178/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
