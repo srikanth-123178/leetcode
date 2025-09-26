@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/srikanth-123178/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/srikanth-123178/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/srikanth-123178/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1293-three-consecutive-odds](https://github.com/srikanth-123178/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srikanth-123178/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srikanth-123178/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/srikanth-123178/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srikanth-123178/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/srikanth-123178/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/srikanth-123178/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## String
 |  |
 | ------- |
