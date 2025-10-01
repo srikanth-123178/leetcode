@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/srikanth-123178/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/srikanth-123178/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srikanth-123178/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1642-water-bottles](https://github.com/srikanth-123178/leetcode/tree/master/1642-water-bottles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/srikanth-123178/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/srikanth-123178/leetcode/tree/master/3321-type-of-triangle) |
 ## Trie
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/srikanth-123178/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/srikanth-123178/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/srikanth-123178/leetcode/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/srikanth-123178/leetcode/tree/master/1642-water-bottles) |
 ## Dynamic Programming
 |  |
 | ------- |
