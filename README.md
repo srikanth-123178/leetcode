@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/srikanth-123178/leetcode/tree/master/1642-water-bottles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/srikanth-123178/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/srikanth-123178/leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/srikanth-123178/leetcode/tree/master/3336-water-bottles-ii) |
 ## Trie
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/srikanth-123178/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/srikanth-123178/leetcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/srikanth-123178/leetcode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/srikanth-123178/leetcode/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
