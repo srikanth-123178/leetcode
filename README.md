@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/srikanth-123178/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/srikanth-123178/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/srikanth-123178/leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/srikanth-123178/leetcode/tree/master/0575-distribute-candies) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/srikanth-123178/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/srikanth-123178/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/srikanth-123178/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/srikanth-123178/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/srikanth-123178/leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/srikanth-123178/leetcode/tree/master/0575-distribute-candies) |
 ## Math
 |  |
 | ------- |
