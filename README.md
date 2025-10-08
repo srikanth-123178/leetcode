@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/srikanth-123178/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/srikanth-123178/leetcode/tree/master/0575-distribute-candies) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/srikanth-123178/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0792-binary-search](https://github.com/srikanth-123178/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/srikanth-123178/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/srikanth-123178/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1293-three-consecutive-odds](https://github.com/srikanth-123178/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srikanth-123178/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/srikanth-123178/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/srikanth-123178/leetcode/tree/master/0441-arranging-coins) |
+| [0792-binary-search](https://github.com/srikanth-123178/leetcode/tree/master/0792-binary-search) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srikanth-123178/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/srikanth-123178/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sorting
